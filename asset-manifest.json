@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-v1/static/css/main.68125cf0.css",
+    "main.js": "/react-portfolio-v1/static/js/main.9bb8a3cb.js",
+    "static/media/portfolio5.png": "/react-portfolio-v1/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/react-portfolio-v1/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/react-portfolio-v1/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/me.jpeg": "/react-portfolio-v1/static/media/me.5173403ca9fcd50b9118.jpeg",
+    "static/media/Sydney-Mercier-Resume-MAR2022.pdf": "/react-portfolio-v1/static/media/Sydney-Mercier-Resume-MAR2022.d2c12b38eb447ca4c12c.pdf",
+    "static/media/portfolio1.jpg": "/react-portfolio-v1/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio-v1/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/react-portfolio-v1/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/me-about.jpeg": "/react-portfolio-v1/static/media/me-about.2b607038b7fd6d8f91f6.jpeg",
+    "index.html": "/react-portfolio-v1/index.html",
+    "main.68125cf0.css.map": "/react-portfolio-v1/static/css/main.68125cf0.css.map",
+    "main.9bb8a3cb.js.map": "/react-portfolio-v1/static/js/main.9bb8a3cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68125cf0.css",
+    "static/js/main.9bb8a3cb.js"
+  ]
+}
