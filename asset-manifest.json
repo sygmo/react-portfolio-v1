@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio-v1/static/css/main.edcc2e5f.css",
-    "main.js": "/react-portfolio-v1/static/js/main.de85bb4d.js",
-    "static/media/portfolio5.png": "/react-portfolio-v1/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/react-portfolio-v1/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/react-portfolio-v1/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "main.js": "/react-portfolio-v1/static/js/main.e6ac7c9b.js",
+    "static/media/portfolio1.png": "/react-portfolio-v1/static/media/portfolio1.2d263901cd981c0268c4.png",
+    "static/media/portfolio2.png": "/react-portfolio-v1/static/media/portfolio2.026d6309bdc9f3f64d69.png",
+    "static/media/portfolio5.jpg": "/react-portfolio-v1/static/media/portfolio5.baaa60027192a39d5a94.jpg",
     "static/media/me.jpeg": "/react-portfolio-v1/static/media/me.5173403ca9fcd50b9118.jpeg",
     "static/media/Sydney-Mercier-Resume-MAR2022.pdf": "/react-portfolio-v1/static/media/Sydney-Mercier-Resume-MAR2022.d2c12b38eb447ca4c12c.pdf",
-    "static/media/portfolio1.jpg": "/react-portfolio-v1/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/react-portfolio-v1/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/react-portfolio-v1/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio6.png": "/react-portfolio-v1/static/media/portfolio6.4d64c731d92a6fbd0c2a.png",
     "static/media/me-about.jpeg": "/react-portfolio-v1/static/media/me-about.2b607038b7fd6d8f91f6.jpeg",
+    "static/media/portfolio3.jpg": "/react-portfolio-v1/static/media/portfolio3.a711f763e1505c7d5b4e.jpg",
+    "static/media/portfolio4.jpg": "/react-portfolio-v1/static/media/portfolio4.648d9868ffa9ad58ed90.jpg",
     "index.html": "/react-portfolio-v1/index.html",
     "main.edcc2e5f.css.map": "/react-portfolio-v1/static/css/main.edcc2e5f.css.map",
-    "main.de85bb4d.js.map": "/react-portfolio-v1/static/js/main.de85bb4d.js.map"
+    "main.e6ac7c9b.js.map": "/react-portfolio-v1/static/js/main.e6ac7c9b.js.map"
   },
   "entrypoints": [
     "static/css/main.edcc2e5f.css",
-    "static/js/main.de85bb4d.js"
+    "static/js/main.e6ac7c9b.js"
   ]
 }
