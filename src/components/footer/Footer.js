@@ -23,6 +23,7 @@ const Footer = () => {
 
       <div className='footer__copyright'>
         <small>&copy; Sydney Mercier. All rights reserved.</small>
+        <small><a href='https://www.freepik.com/vectors/monitoring'> Monitoring vector created by macrovector - www.freepik.com</a></small>
       </div>
     </footer>
   )
