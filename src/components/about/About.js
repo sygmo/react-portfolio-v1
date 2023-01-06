@@ -32,7 +32,7 @@ const About = () => {
           </div>
 
           <p>
-            Full-stack web developer with computer science background from the University of Texas at Austin. Recently earned a certificate in full-stack development from the university’s online coding bootcamp, with newly developed skills in JavaScript, HTML/CSS, React, and responsive web design. Passionate about discovering innovative solutions to programming challenges and mobile-first development. I look forward to utilizing my skills as part of a team that values lifelong learning and quality engineering.
+            Full-stack web developer with computer science background from the University of Texas at Austin. Recently earned certificates in full-stack development from UT Austin and SMU coding bootcamps, with newly developed skills in Java, Spring, JavaScript, React, and responsive web design. Passionate about discovering innovative solutions to programming challenges and mobile-first development. I look forward to utilizing my skills as part of a team that values lifelong learning and quality engineering.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
